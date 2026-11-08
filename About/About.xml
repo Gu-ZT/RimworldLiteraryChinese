@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>文言（華夏）</name>
+  <author>RimworldLiteraryChinese Contributors</author>
+  <packageId>literarychinese.rimworld</packageId>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>ludeon.rimworld</li>
+    <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
+    <li>ludeon.rimworld.biotech</li>
+    <li>ludeon.rimworld.anomaly</li>
+    <li>ludeon.rimworld.odyssey</li>
+  </loadAfter>
+  <description>為邊緣世界增設文言（華夏）。缺譯之處取繁體中文。</description>
+</ModMetaData>

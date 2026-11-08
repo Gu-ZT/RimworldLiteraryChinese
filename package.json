@@ -1,0 +1,18 @@
+{
+  "name": "rimworld-literary-chinese",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.12.0"
+  },
+  "scripts": {
+    "workspace:generate": "node scripts/workspace.ts generate",
+    "workspace:export": "node scripts/workspace.ts export",
+    "package": "node scripts/package.ts"
+  },
+  "devDependencies": {
+    "@xmldom/xmldom": "0.9.12",
+    "fflate": "0.8.3"
+  }
+}

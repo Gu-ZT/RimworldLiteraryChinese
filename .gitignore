@@ -1,0 +1,9 @@
+/Assemblies/
+/node_modules/
+/dist/
+/RimWorld-LiteraryChineseWorkspace/
+/.lzh-tmp-*/
+bin/
+obj/
+.vs/
+/.lzh-workspace.lock/
